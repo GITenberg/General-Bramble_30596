@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34699
     wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Maurois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30596#General-Bramble
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-12-03'
 gutenberg_type: Text
