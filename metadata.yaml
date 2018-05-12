@@ -1,0 +1,43 @@
+_repo: General-Bramble_30596
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Boswell, Ronald
+    gutenberg_agent_id: '34702'
+    url: http://www.gutenberg.org/2009/agents/34702
+  - agent_name: Castier, Jules
+    birthdate: 1888
+    deathdate: 1957
+    gutenberg_agent_id: '34701'
+    url: http://www.gutenberg.org/2009/agents/34701
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maurois, André
+    aliases:
+    - Herzog, Emile Salomon Wilhelm
+    - André Maurois
+    - Herzog, Émile Salomon Wilhelm
+    - Maurois, Andre
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '34699'
+    url: http://www.gutenberg.org/2009/agents/34699
+    wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Maurois
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2009-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: General Bramble
+url: http://www.gutenberg.org/ebooks/30596
